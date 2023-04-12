@@ -1,32 +1,70 @@
-body{
-    background-image: url();
-    background-color: darkblue;
-    color: white;    
-}
-
 header{
-    background-color: black;
-    
-    border-color: gold;
-    background-image: url(data:image/jpeg;base64,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);
+      background-color: rgb(78, 78, 78);
+      
 }
 
-.padrao{
+body{
+    background-image: url(https://img.freepik.com/fotos-premium/ceu-noturno-estrelas-e-galaxias-no-ceu-ao-entardecer_494741-58775.jpg);
+    margin: 0%;
+}
+
+.headercent{
+    display: flex;
+    justify-content: center;
+    margin-left: 5%;
+    align-items: center;
+}
+
+.nav{
+    text-shadow: none;
+    display: inline;
+    padding-left: 20px;
+    font-size: large;
+}
+
+.superior{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 3px 7px;
+    background-color: rgb(87, 87, 87);
+    transition: 4ms;
+    border-radius: 8px; 
+}
+
+.textpadrao{
     text-align: justify;
-    margin-left: 23%;
-    margin-right: 23%;
-    width: 55%; 
-    text-indent: 50px; 
+    margin-left: 22%;
+    margin-right: 22%;
+    width: 55%;
+    text-indent: 50px;
     font-size: large; 
-    border: 4px solid 
-    padding-left: 2rem; 
-    padding-right: 2rem; 
-    padding-top: 1rem; 
-    padding-bottom: 2rem; 
-    background-color:
-    border-radius: 3rem;
+    border: 3px solid black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    background-color: rgb(221, 221, 221) ;
+    border-radius: 2rem;
+
 }
 
-.head_foto{
-    width: 10%;
+
+.titulopadrao{
+    position: relative;
+    left: 22%;
+    width: 50%;
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 3px;
+    font-weight: bold;
 }
+
+#simb_header{
+    display: flex;
+}
+
+#logo_starwars{
+    width: 8rem;
+    margin-right: 625px
+}   
