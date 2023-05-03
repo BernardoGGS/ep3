@@ -13,6 +13,8 @@ body{
   justify-content: center;
   margin-left: 5%;
   align-items: center;
+
+
 }
 
 .nav{
@@ -51,6 +53,12 @@ body{
   margin-bottom: 1%;
 }
 
+.img{
+    margin: auto;
+    display: block;
+    width: 50%;
+
+}
 
 .titulopadrao{
   position: relative;
@@ -68,7 +76,7 @@ body{
 
 #logo_starwars{
   width: 8rem;
-  margin-right: 625px
+  margin-right: 3rem;
 }   
 
 footer{
