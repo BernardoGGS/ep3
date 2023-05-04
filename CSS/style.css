@@ -70,6 +70,11 @@ body{
   font-weight: bold;
 }
 
+.figcaption{
+    font-size: xx-small;
+    text-align: center;
+}
+
 #simb_header{
   display: flex;
 }
