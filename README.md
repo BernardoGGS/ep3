@@ -1,4 +1,4 @@
-Este foi o 3° trabalho da escola que eu fiz, em conjunto com alguns colegas, utilizando algumas tecnologias do Front-end.
+Este foi o 3° trabalho escolar que eu fiz, em conjunto com alguns colegas, utilizando algumas tecnologias do Front-end.
 
 ![1](https://github.com/BernardoGGS/ep3/assets/127848624/c7d850e8-b809-4f61-983b-fa6e036c56bc)
 
